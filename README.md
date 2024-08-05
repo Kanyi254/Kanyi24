@@ -13,10 +13,28 @@ As a developer, I would describe myself as a skilled and experienced professiona
 
 ---
 
-- 🔭 I’m currently studying **JavaScript**
-- 📫 How to reach me: **wesleyliam005@gmail.com**
+- 🔭 I’m currently studying **Data Science**
+- 📫 How to reach me: **briangithinji564@gmail.com**
 - ⚡ Fun fact: **Knowledge is power if put to good use**
 
 ---
 
-<h3 align="center">Connect with me:</h3
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://twitter.com/thetech_genex" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="thetech_genex" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/TECH GENEX" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="TECH GENEX" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">💻 Tech Bag:</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r" />
+</p>
