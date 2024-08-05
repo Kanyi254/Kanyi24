@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-As a data , I would describe myself as a skilled and experienced professional with in-depth knowledge in various programming languages and technologies. I am versatile and can easily adapt to different frameworks or platforms.
+As a data scientist , I would describe myself as a skilled and experienced professional with in-depth knowledge in various programming languages and technologies. I am versatile and can easily adapt to different frameworks or platforms.
 </p>
 
 ---
