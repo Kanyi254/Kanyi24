@@ -1,4 +1,9 @@
 <img align="top" alt="Data Science" width="900" height="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4-0ME_U9FP3wh7taOXA8sw.gif">
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Brandon];This+is..;..my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
 
 <h1 align="center">Hi 👋, This is Brandon!!</h1>
 <h3 align="center">💫 About Me: Am a a modern Day Data scientist👌</h3>
@@ -43,7 +48,7 @@ As a data scientist am adapt to programming skills, Excel, Dashboard visualisati
   </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50" height="50"/>
-  </a>
+  </a> <br/>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="50" height="50"/>
   </a>
