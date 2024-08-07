@@ -7,25 +7,26 @@
 As a data scientist am adapt to programming skills, Excel, Dashboard visualisations, Statistical and predictive Analysis
 </p>
 
-<img align="right" alt="Coding" width="300" style="border-radius: 15px;" src="https://cdn.dribbble.com/users/1210339/screenshots/2776561/einstein_cycling.gif">
+<img align="right" alt="Coding" width="300" style="border-radius: 15px;" src="https://th.bing.com/th/id/R.f617f080d4d78bdee1c6615397bebc6a?rik=IKM4kPewsQQlmg&pid=ImgRaw&r=0">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=brian-githinji&label=Profile%20views&color=0e75b6&style=flat" alt="brian-githinji" /> 
-</p>
+
 
 - 🔭 I’m currently studying **Data Science** at **Moringa School**
 - 📫 How to reach me: **kanyibrandon@gmail.com**
 - ⚡ Fun fact: **Wrangled data is my Favourite data**
+- 🐱‍👤 Sports: **Am a Blackbelt Karate expert, play LB/RB/CDM in Soccer**
+- 🍿 Movies: **More into nature documetaries and Anime**
+  
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left"> 
-  <a href="https://twitter.com/FvdedP" target="blank">
+  <a href="https://x.com/beastke_254" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height="30" width="40" />
   </a> 
   <a href="https://www.instagram.com/kanyi_brandy/?hl=en" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in//" target="blank">
+  <a href="www.linkedin.com/in/brandon-kanyi-m254" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
