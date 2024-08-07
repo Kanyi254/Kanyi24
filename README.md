@@ -64,9 +64,7 @@ As a data scientist am adapt to programming skills, Excel, Dashboard visualisati
     <img src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0-2048x2048.png" alt="Excel" width="50" height="50"/>
 </p>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Kanyi254/Kanyi254/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kanyi254&show_icons=true&theme=chartreuse-dark" alt="Brandon's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanyi254&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
