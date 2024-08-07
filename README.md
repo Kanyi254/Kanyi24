@@ -4,9 +4,10 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Brandon];This+is..;..my+Github..;" alt="Typing SVG"/>
     </h1>
 </div>
-
-<h1 align="center">Hi 👋, This is Brandon!!</h1>
-<h3 align="center">💫 About Me: Am a a modern Day Data scientist👌</h3>
+<div align="center">
+    <h2>🚀 About Me</h2>
+    <p>I'm a Data Scientist specializing in Data Analysis, visualization, Machine and AI learning. I enjoy Karate, open world games, soccer and cooking.</p>
+</div>
 
 <p align="center">
 As a data scientist am adapt to programming skills, Excel, Dashboard visualisations, Statistical and predictive Analysis
@@ -63,6 +64,9 @@ As a data scientist am adapt to programming skills, Excel, Dashboard visualisati
     <img src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0-2048x2048.png" alt="Excel" width="50" height="50"/>
 </p>
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Kanyi254/Kanyi254/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kanyi254&show_icons=true&theme=chartreuse-dark" alt="Brandon's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanyi254&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
